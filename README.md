@@ -6,7 +6,7 @@ Covid Tracer Android App
 
 -To show the data in a list view or recycler view. 
 
-
+-Volley is used to fetch Api
 Outputs:-
 1)List of indian states
 
