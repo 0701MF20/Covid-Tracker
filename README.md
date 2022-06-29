@@ -1,4 +1,4 @@
-Covid Tracer Android App
+Covid Tracker Android App
 
 -Aim is to create an app that can show the user how many covid cases are currently there in the city and state.
 
